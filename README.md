@@ -12,7 +12,7 @@ The study focuses on designing a network for the small manufacturing company wit
 
 **Requirements** 
 
-Based on the scenario given about small manufacturing company, the network design incorporates following requirements. 
+Based on the scenario given about small manufacturing company, the network design incorporates following requirements.  
 1.	Security Camera: IP-based security cameras should be present in the network of manufacturing company both inside and outside of the building for continuous security monitoring. 
 2.	IP Subnets: Minimum three different IP subnets are required for the network i.e. separate subnet for factory, security cameras and office. 
 3.	Subnet Masks: The subnet masks should be used in the network is either /24 or /16 network masks throughout the company’s network. Other subnet masks are not allowed to use. 
