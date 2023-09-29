@@ -200,30 +200,44 @@ I will use task prioritization approach in future to successfully prioritize eac
 
 **References**
 Ahmad, K., Shekhar, J. & Yadav, K., 2010. A Potential Solution to Mitigate SQL Injection Attack. VSRD Technical & Non-Technical Journal, 1(2), pp. 1 - 9.
+
 Alshar’’e, M., 2023. Cyber Security Framework Selection: Comparision Of Nist And Iso27001. Applied Computing Journal , 3(1), pp. 1 - 11.
+
 Farrah, M. A. A., 2012. Reflective Journal Writing as an Effective Technique in the Writing Process. An-Najah University Journal for Research - B (Humanities), 26(4), pp. 1 - 24.
+
 Hassan, A. & Mondol, R., 2015. Computer network design of a company — A simplistic way. 2015 International Conference on Advanced Computing and Communication Systems (ICACCS), pp. 1 - 11.
+
 Hinge‬, A., 2023. ACSC Essential 8 Cybersecurity Strategies, Maturity Levels, and Best Practices. [Online] 
+
 Available at: https://blog.qualys.com/vulnerabilities-threat-research/2023/03/21/acsc-essential-8-cybersecurity-strategies-maturity-levels-and-best-practices
 [Accessed 14 September 2023].
+
 Huitao, W. & Ruopeng, Y., 2019. Research on IP Address Allocation of Tactical Communication Network. Journal of Physics: Conference Series, 1187(042105), pp. 1 - 8.
+
 Hutchins, M. J., 2015. Framework for Identifying Cybersecurity Risks in Manufacturing. Procedia Manufacturing, Volume 1, pp. 1 - 17.
+
 Kochovski, A., 2022. The Risks and Benefits of Cloud Storage in 2023. [Online] 
 Available at: https://www.cloudwards.net/the-risks-and-benefits-of-cloud-storage/
 [Accessed 13 September 2023].
+
 MEARDON, E., 2023. What are Gantt charts?. [Online] 
 Available at: What are Gantt charts?
 [Accessed 14 September 2023].
+
 Navsariwala, M., 2023. What is Localized vs. Remote Backup?. [Online] 
 Available at: https://www.servermania.com/kb/articles/localized-vs-remote
 [Accessed 26 September 2023].
+
 Sánchez-García, I. D. & Mejía, J., 2023. Cybersecurity Risk Assessment: A Systematic Mapping Review, Proposal, and Validation. Applied Science , 13(395), pp. 1 - 29.
+
 Tozzi, C., 2023. How to Build a Personal Cloud Server for Private File Storage at Home. [Online] 
 Available at: https://www.itprotoday.com/cloud-storage/how-build-personal-cloud-server-private-file-storage-home
 [Accessed 14 September 2023].
+
 wp.nyu.edu, 2023. Ultimate Guide To Azure Costs For 2022. [Online] 
 Available at: https://wp.nyu.edu/dispatch/ultimate-guide-to-azure-costs-for-2022/
 [Accessed 14 September 2023].
+
 
 
 
