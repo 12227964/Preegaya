@@ -1,5 +1,7 @@
 # Preegaya
+
 Group assignment 
+
 **Introduction**:
 
 The study focuses on designing a network for the small manufacturing company with a single factory and office buildings. The cloud services are used as a part of network. The study analyzes various cloud service options and estimate the cost for cloud services. The confidential information in the organization is kept in local servers. Different backup strategies are compared and analyzed based on the scenario. Since the network of manufacturing company is prone to various cyber security risk the study focus on conducting risk assessment to analyze the risks to recommend appropriate security controls. Project management approach is applied on the developing network design project by presenting a detailed project plan, and draft network design. The final part of the  study presents a reflective work to state issues faced, experience and recommendation to work for a group projects in future.
@@ -77,7 +79,8 @@ Web server - $150 / month = $1800 / year
 Database Server - $100/ month = $1200 / year
 Monitoring – Free 
 Backup Server - $ 120/ month = $1440 / year
-The total annual cost would be $ 4,440. 
+The total annual cost would be $ 4,440.
+
 2.	**Azure** :
 
 Web hosting – $31.39 / month = $ 376.68 / year
@@ -87,12 +90,13 @@ The total annual cost would be $7,811.68 (wp.nyu.edu, 2023)
 .
 
 **4.2.2 Backup Strategies** 
+
 **Comparison of Backup Strategies** 
 The company decided to keep confidential and sensitive information on local servers for ensuring security of those information. But backup of confidential information can be stored on cloud services only if the information is encrypted before sending to the cloud. The company focusing on three approaches such as 
 1.	Local backup 
 2.	Storing backup on cloud after information was encrypted before sending to cloud 
 3.	Storing backup at cloud without encryption.
-4.	
+	
 **Local Backup**:
 
 In local back, the manufacturing company stores sensitive files into the local server which provides advantages and disadvantages as follows.
@@ -115,10 +119,12 @@ Table
 When working in a group project, it is necessary to back up the files of assessments for which various tools and approaches will be used. 
 1.	**External Devices (Hard Disk / USB)**:
    
-The university files and group project files can be stored in external physical storage devices like hard disk and USB drive. These type of storage are easy and highly convenient for backup. But the main thing to consider is the data may overflow the internal storage. These solutions are highly cost effective way of backing up the files.  
+The university files and group project files can be stored in external physical storage devices like hard disk and USB drive. These type of storage are easy and highly convenient for backup. But the main thing to consider is the data may overflow the internal storage. These solutions are highly cost effective way of backing up the files. 
+
 3.	**Google Drive:**:
 
 The important university files will be imported to the Google drive which is an effective way of securing university files. The Google drive provides easy recovery of files as well as easy retrieval of files from anywhere and any device. If the data was lost, it can be easily recovered. The university files will be securely stored in world-class data centers. It provides higher level security because data is encrypted during transit and at-rest. 
+
 4.	**Personal Cloud Server**: 
 
 A personal cloud server efficiently stores personal files as well as university files in an effective way. Using shared network drives or network-attached storage, the personal cloud servers enables to upload the files as well as download the files over internet. These cloud storage are different from conventional cloud servers because the personal cloud server allows the users to own and manage the data. Personal cloud server would be the best option for storing university files because it is highly scalable, provides better performance, secured and easily configured based on user needs (Tozzi, 2023). 
