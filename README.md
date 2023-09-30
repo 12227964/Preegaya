@@ -55,7 +55,10 @@ Since the group has two members with the IDs 12217501 and 12227964, the IP addre
 Internet has been used for establishing communication in the network. The network contains two routers connected to subnets through switch. Each subnet contains access point which connects the Desktop computers, laptop, monitoring devices to the wired network. The network contains four server such as web server, email server, monitor server and DHCP server. The web server enables to access the internet and Email server facilitates to send and receive emails from the customers. DHCP server automatically fetches IP host based on the IP address along with relevant information such as default gateway and subnet mask. To improve the network performance as well as to establish intercommunication among devices present in each subnets, VLAN has been utilized (Hassan & Mondol, 2015).
 
 **Address Allocations**
+
+
 **Table 1: IP Address Allocation Table
+
 Table**
 
 **Recommended Hardware**:
@@ -67,6 +70,8 @@ The network design contains following hardwares connected to the network.
 	Servers: Web server, email server, DHCP and monitor server are included in the network for effective communication (Hassan & Mondol, 2015).
 
 **4.2 Cloud Services**
+
+
 **4.2.1 Pricing for Cloud Services**:
 
 The cost of cloud services are estimated in two different cloud service providers such as AWS and Microsoft Azure.
@@ -78,6 +83,7 @@ Database Server - $100/ month = $1200 / year
 Monitoring – Free 
 Backup Server - $ 120/ month = $1440 / year
 The total annual cost would be $ 4,440. 
+
 2.	**Azure** :
 
 Web hosting – $31.39 / month = $ 376.68 / year
@@ -87,12 +93,14 @@ The total annual cost would be $7,811.68 (wp.nyu.edu, 2023)
 .
 
 **4.2.2 Backup Strategies** 
+
 **Comparison of Backup Strategies** 
+
 The company decided to keep confidential and sensitive information on local servers for ensuring security of those information. But backup of confidential information can be stored on cloud services only if the information is encrypted before sending to the cloud. The company focusing on three approaches such as 
 1.	Local backup 
 2.	Storing backup on cloud after information was encrypted before sending to cloud 
 3.	Storing backup at cloud without encryption.
-4.	
+   
 **Local Backup**:
 
 In local back, the manufacturing company stores sensitive files into the local server which provides advantages and disadvantages as follows.
@@ -113,13 +121,16 @@ Table
   **Different approaches to Backup University Work**:
   
 When working in a group project, it is necessary to back up the files of assessments for which various tools and approaches will be used. 
+
 1.	**External Devices (Hard Disk / USB)**:
    
-The university files and group project files can be stored in external physical storage devices like hard disk and USB drive. These type of storage are easy and highly convenient for backup. But the main thing to consider is the data may overflow the internal storage. These solutions are highly cost effective way of backing up the files.  
-3.	**Google Drive:**:
+The university files and group project files can be stored in external physical storage devices like hard disk and USB drive. These type of storage are easy and highly convenient for backup. But the main thing to consider is the data may overflow the internal storage. These solutions are highly cost effective way of backing up the files.
 
-The important university files will be imported to the Google drive which is an effective way of securing university files. The Google drive provides easy recovery of files as well as easy retrieval of files from anywhere and any device. If the data was lost, it can be easily recovered. The university files will be securely stored in world-class data centers. It provides higher level security because data is encrypted during transit and at-rest. 
-4.	**Personal Cloud Server**: 
+2.	**Google Drive:**:
+
+The important university files will be imported to the Google drive which is an effective way of securing university files. The Google drive provides easy recovery of files as well as easy retrieval of files from anywhere and any device. If the data was lost, it can be easily recovered. The university files will be securely stored in world-class data centers. It provides higher level security because data is encrypted during transit and at-rest.
+
+3.	**Personal Cloud Server**: 
 
 A personal cloud server efficiently stores personal files as well as university files in an effective way. Using shared network drives or network-attached storage, the personal cloud servers enables to upload the files as well as download the files over internet. These cloud storage are different from conventional cloud servers because the personal cloud server allows the users to own and manage the data. Personal cloud server would be the best option for storing university files because it is highly scalable, provides better performance, secured and easily configured based on user needs (Tozzi, 2023). 
 
@@ -129,7 +140,26 @@ A personal cloud server efficiently stores personal files as well as university 
 
 The risk assessment has been conducted for the network design. The network designed for manufacturing company consist of following assets
 
-Table
+Table: Network Assets and Its Types
+----------------------------------------
+                        Asset Type
+----------------------|------------------
+Customer Details      | Data 
+----------------------|-----------------
+Finance Statement     | Data 
+----------------------|------------------
+Engineering designs   | Data 
+----------------------|------------------
+Asset	                Hardware 
+----------------------------------------
+Router               	Hardware 
+---------------------------------------
+Switch              	Hardware 
+---------------------------------------
+Server              	Network 
+---------------------------------------
+VLAN 	                Network 
+----------------------------------------
 
 Table
 
@@ -165,7 +195,9 @@ To mitigate the VLAN hopping attack based on NIST cyber security framework, foll
 The double tagging also leads to VLAN hopping which can be prevented by keeping the native VLAN of trunk ports in the network different from user VLAN. Following these strategies VLAN hopping can be significantly mitigated and protected (Alshar’’e, 2023)
 
 5 **Project Management** 
+
 5.1	**Project Plan** 
+
 A detailed project plan for network design project of small manufacturing company have been presented in the Gantt chart below.
 
   Table
@@ -199,6 +231,7 @@ I will use task prioritization approach in future to successfully prioritize eac
 
 
 **References**
+
 Ahmad, K., Shekhar, J. & Yadav, K., 2010. A Potential Solution to Mitigate SQL Injection Attack. VSRD Technical & Non-Technical Journal, 1(2), pp. 1 - 9.
 
 Alshar’’e, M., 2023. Cyber Security Framework Selection: Comparision Of Nist And Iso27001. Applied Computing Journal , 3(1), pp. 1 - 11.
